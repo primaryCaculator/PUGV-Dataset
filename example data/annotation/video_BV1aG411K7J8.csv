@@ -1,0 +1,53 @@
+﻿Shot Number,Start Frame,Start Timecode,Start Time (seconds),End Frame,End Timecode,End Time (seconds),Length (frames),Length (timecode),Length (seconds),mv,scale,scale_manual
+1,1,00:00.0,0,68,00:02.3,2.267,68,00:02.3,2.267,Static,Extreme Close Shot,Close Shot
+2,70,00:02.3,2.3,123,00:04.1,4.1,54,00:01.8,1.8,Static,Extreme Close Shot,Extreme Close Shot
+3,125,00:04.1,4.133,162,00:05.4,5.4,38,00:01.3,1.267,Static,Full Shot,Full Shot
+4,164,00:05.4,5.433,226,00:07.5,7.533,63,00:02.1,2.1,Static,Extreme Close Shot,Close Shot
+5,228,00:07.6,7.567,289,00:09.6,9.633,62,00:02.1,2.067,Static,Extreme Close Shot,Close Shot
+6,291,00:09.7,9.667,324,00:10.8,10.8,34,00:01.1,1.133,Static,Full Shot,Close Shot
+7,326,00:10.8,10.833,396,00:13.2,13.2,71,00:02.4,2.367,Static,Extreme Close Shot,Medium Shot
+8,398,00:13.2,13.233,500,00:16.7,16.667,103,00:03.4,3.433,Static,Extreme Close Shot,Medium Shot
+9,502,00:16.7,16.7,544,00:18.1,18.133,43,00:01.4,1.433,Static,Extreme Close Shot,Medium Shot
+10,546,00:18.2,18.167,583,00:19.4,19.433,38,00:01.3,1.267,Static,Extreme Close Shot,Close Shot
+11,585,00:19.5,19.467,637,00:21.2,21.233,53,00:01.8,1.767,Static,Extreme Close Shot,Medium Shot
+12,639,00:21.3,21.267,706,00:23.5,23.533,68,00:02.3,2.267,Static,Extreme Close Shot,Close Shot
+13,708,00:23.6,23.567,861,00:28.7,28.7,154,00:05.1,5.133,Static,Extreme Close Shot,Medium Shot
+14,863,00:28.7,28.733,897,00:29.9,29.9,35,00:01.2,1.167,Static,Extreme Close Shot,Close Shot
+15,899,00:29.9,29.933,985,00:32.8,32.833,87,00:02.9,2.9,Static,Extreme Close Shot,Medium Shot
+16,987,00:32.9,32.867,1019,00:34.0,33.967,33,00:01.1,1.1,Static,Extreme Close Shot,Close Shot
+17,1021,00:34.0,34,1075,00:35.8,35.833,55,00:01.8,1.833,Static,Extreme Close Shot,Medium Shot
+18,1077,00:35.9,35.867,1168,00:38.9,38.933,92,00:03.1,3.067,Static,Extreme Close Shot,Medium Shot
+19,1170,00:39.0,38.967,1241,00:41.4,41.367,72,00:02.4,2.4,Static,Extreme Close Shot,Medium Shot
+20,1243,00:41.4,41.4,1328,00:44.3,44.267,86,00:02.9,2.867,Static,Close Shot,Medium Shot
+21,1330,00:44.3,44.3,1367,00:45.6,45.567,38,00:01.3,1.267,Static,Close Shot,Extreme Close Shot
+22,1369,00:45.6,45.6,1439,00:48.0,47.967,71,00:02.4,2.367,Static,Extreme Close Shot,Close Shot
+23,1441,00:48.0,48,1523,00:50.8,50.767,83,00:02.8,2.767,Static,Extreme Close Shot,Extreme Close Shot
+24,1525,00:50.8,50.8,1580,00:52.7,52.667,56,00:01.9,1.867,Static,Extreme Close Shot,Close Shot
+25,1582,00:52.7,52.7,1701,00:56.7,56.7,120,00:04.0,4,Static,Extreme Close Shot,Extreme Close Shot
+26,1703,00:56.7,56.733,1858,01:01.9,61.933,156,00:05.2,5.2,Static,Extreme Close Shot,Close Shot
+27,1860,01:02.0,61.967,1932,01:04.4,64.4,73,00:02.4,2.433,Static,Extreme Close Shot,Close Shot
+28,1934,01:04.4,64.433,2061,01:08.7,68.7,128,00:04.3,4.267,Static,Extreme Close Shot,Medium Shot
+29,2063,01:08.7,68.733,2134,01:11.1,71.133,72,00:02.4,2.4,Static,Extreme Close Shot,Extreme Close Shot
+30,2136,01:11.2,71.167,2246,01:14.9,74.867,111,00:03.7,3.7,Static,Extreme Close Shot,Close Shot
+31,2248,01:14.9,74.9,2330,01:17.7,77.667,83,00:02.8,2.767,Static,Extreme Close Shot,Medium Shot
+32,2332,01:17.7,77.7,2446,01:21.5,81.533,115,00:03.8,3.833,Static,Extreme Close Shot,Extreme Close Shot
+33,2448,01:21.6,81.567,2506,01:23.5,83.533,59,00:02.0,1.967,Static,Extreme Close Shot,Extreme Close Shot
+34,2508,01:23.6,83.567,2571,01:25.7,85.7,64,00:02.1,2.133,Static,Extreme Close Shot,Medium Shot
+35,2573,01:25.7,85.733,2688,01:29.6,89.6,116,00:03.9,3.867,Static,Extreme Close Shot,Close Shot
+36,2690,01:29.6,89.633,2756,01:31.9,91.867,67,00:02.2,2.233,Static,Extreme Close Shot,Extreme Close Shot
+37,2758,01:31.9,91.9,2917,01:37.2,97.233,160,00:05.3,5.333,Static,Extreme Close Shot,Close Shot
+38,2919,01:37.3,97.267,2981,01:39.4,99.367,63,00:02.1,2.1,Static,Extreme Close Shot,Extreme Close Shot
+39,2983,01:39.4,99.4,3103,01:43.4,103.433,121,00:04.0,4.033,Static,Extreme Close Shot,Close Shot
+40,3105,01:43.5,103.467,3182,01:46.1,106.067,78,00:02.6,2.6,Motion,Full Shot,Extreme Close Shot
+41,3184,01:46.1,106.1,3239,01:48.0,107.967,56,00:01.9,1.867,Static,Extreme Close Shot,Close Shot
+42,3241,01:48.0,108,3337,01:51.2,111.233,97,00:03.2,3.233,Static,Extreme Close Shot,Extreme Close Shot
+43,3339,01:51.3,111.267,3429,01:54.3,114.3,91,00:03.0,3.033,Static,Extreme Close Shot,Close Shot
+44,3431,01:54.3,114.333,3554,01:58.5,118.467,124,00:04.1,4.133,Static,Extreme Close Shot,Extreme Close Shot
+45,3556,01:58.5,118.5,3658,02:01.9,121.933,103,00:03.4,3.433,Static,Extreme Close Shot,Close Shot
+46,3660,02:02.0,121.967,3764,02:05.5,125.467,105,00:03.5,3.5,Static,Extreme Close Shot,Extreme Close Shot
+47,3766,02:05.5,125.5,3852,02:08.4,128.4,87,00:02.9,2.9,Static,Extreme Close Shot,Full Shot
+48,3854,02:08.4,128.433,3921,02:10.7,130.7,68,00:02.3,2.267,Static,Full Shot,Extreme Close Shot
+49,3923,02:10.7,130.733,4067,02:15.6,135.567,145,00:04.8,4.833,Static,Extreme Close Shot,Close Shot
+50,4069,02:15.6,135.6,4158,02:18.6,138.6,90,00:03.0,3,Static,Extreme Close Shot,Full Shot
+51,4160,02:18.6,138.633,4280,02:22.7,142.667,121,00:04.0,4.033,Static,Extreme Close Shot,Close Shot
+52,4282,02:22.7,142.7,4325,02:24.2,144.167,44,00:01.5,1.467,Static,Long Shot,-1
