@@ -1,7 +1,7 @@
 # PUGV Dataset for Vlog Editing
   Professional User-generated Vlog Video dataset from the paper "Two-Stream Cinematographic-aware Shot Assembly for Vlog Generation".
   
-This repository consists of well-edited vlog videos from the BiliBili platform along with their metadata(the number of likes, shares, comments, danmu and etc.) and manual "scale type" annotations (Extreme Close shot, Close shot, Medium shot, Full shot, Long shot) for each shot.
+This repository consists of well-edited vlog videos from the Chinese video-sharing platform (BiliBili,https://www.bilibili.com/) along with their metadata(the number of likes, shares, comments, danmu and etc.) and manual "scale type" annotations (Extreme Close shot, Close shot, Medium shot, Full shot, Long shot) for each shot.
 
 
 * Structure of the repository
