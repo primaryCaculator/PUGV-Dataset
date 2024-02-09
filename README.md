@@ -1,32 +1,12 @@
-# PUGV Dataset for Vlog Editing
-  Professional User-generated Vlog Video dataset from the paper "Two-Stream Cinematographic-aware Shot Assembly for Vlog Generation".
+# PUGV Video Dataset for Vlog Editing (ProVlog）
+  Professional User-generated Vlog Video dataset from the paper "Cinematographic-aware Coherent Shot Assembly for Vlog Generation".
   
-This repository consists of well-edited vlog videos from the Chinese video-sharing platform (BiliBili,https://www.bilibili.com/) along with their metadata(the number of likes, shares, comments, danmu and etc.) and manual "scale type" annotations (Extreme Close shot, Close shot, Medium shot, Full shot, Long shot) for each shot.
+This repository consists of well-edited vlog videos from the Chinese video-sharing platform (BiliBili,https://www.bilibili.com/) and manual "scale type" annotations (Extreme Close shot, Close shot, Medium shot, Full shot, Long shot) for each shot in the videos.
 
 
 * Structure of the repository
 
-We upload some example data from the PUGV dataset. The file "example data" includes the information and URLs for videos in the file "video", and information of shot segmentation and shot annotations in the "annotation" file.
-
-* Video information and URLs
-  
-Video URL:  https://www.bilibili.com/video/bvid/ # bvid is the unique identity number for each video
-```
-{
-    "bvid": ["BV1A34y157k3"],
-    "title": ["白噪音美食|裹满浓郁茄汁的巴沙鱼..."],
-    "description": ["一道适合夏天的菜..."],
-    "video_review": [20],
-    "play": [16297],
-    "collect": [1012],
-    "comment": [113],
-    "like": [1266],
-    "share": [132],
-    "coin": [250],
-    "danmu": [20],
-    "duration": [2:34]
-},
-```
+We upload all video data from the PUGV dataset. The file "cooking_videos_bvid" and "handcraft_videos_bvid" include the unique ID of each video, and each video can be access through link " https://www.bilibili.com/video/*corresponding bvid*/". Each ZIP package comprises information on shot segmentation and shot annotations about each video under the corresponding scenario(cooking or handcraft).
 
 
 * Shot segmentation and annotations
@@ -47,6 +27,10 @@ Video URL:  https://www.bilibili.com/video/bvid/ # bvid is the unique identity n
   },
 ```
 
+
+* Video downloading and processing
+  
+ The code about the video downloading and processing (split the video into shots), will be updated soon.
 
 
 
